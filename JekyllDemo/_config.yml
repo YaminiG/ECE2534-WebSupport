@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Microcontroller Interfacing
-email: your-email@example.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   This page is going to host important course content for ECE2534 offered by the Bradley Department of Electrical and Computer Engineering at Virginia Tech.
   Some of the course content includes relevant documentation for MSP432 Microcontroller so that you continue to build cool projects on your board!
